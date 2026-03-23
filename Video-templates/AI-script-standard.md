@@ -10,9 +10,9 @@ The goal is not to generate widely different creative outputs. The goal is to st
 
 ---
 
-## What the human should provide
+## What you should provide
 
-The human does **not** need to write a polished script.
+You do **not** need to write a polished script.
 
 They only need to provide a rough draft or notes that include:
 
