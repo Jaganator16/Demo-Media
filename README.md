@@ -27,3 +27,8 @@ There are some gaps.
 
 [week-by-week.md](week-by-week.md)  
 The same content as the progress report, but reorganised by week instead of by content, task, and subtask.
+
+---
+
+## Here is a link to all the content I have posted
+[Jagos content](https://youtube.com/playlist?list=PLruNcvH1uxmmOYo0tSCvhPAh23efMhGiv&si=UIYqJBkuncIkD2LS)
