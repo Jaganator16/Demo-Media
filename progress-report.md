@@ -1,9 +1,9 @@
-# Content: BlueSecure
-
-## Here is a link to all the content I have posted
+# Here is a link to all the content I have posted
 [Jagos content](https://youtube.com/playlist?list=PLruNcvH1uxmmOYo0tSCvhPAh23efMhGiv&si=UIYqJBkuncIkD2LS)
 
 ---
+
+# Content: BlueSecure
 
 ## 16 Feb 26
 
