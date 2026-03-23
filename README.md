@@ -6,7 +6,7 @@ This repository documents the current workflow, standards, and progress for demo
 
 ## Video Standards
 
-[video-standards](https://github.com/Jaganator16/Demo-Media/tree/main/Video-standards) contains:
+[Video-standards](https://github.com/Jaganator16/Demo-Media/tree/main/Video-standards) contains:
 - a workflow  
 - a script standard  
 - an imagery generation standard  
