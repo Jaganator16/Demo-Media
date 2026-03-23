@@ -8,10 +8,10 @@ The goal is to reduce variation, improve reuse, and ensure all content follows a
 
 ## What’s included
 
-- **AI-script-standard.md**  
+- [**AI-script-standard.md**](AI-script-standard.md)
   Defines how scripts should be written, structured, and refined using AI.
 
-- **imagery-generation-standard.md**  
+- [**imagery-generation-standard.md**](
   Covers how to create images, assets, and AI-generated video reliably and consistently.
 
 - **workflow.md**  
