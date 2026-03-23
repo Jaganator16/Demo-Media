@@ -25,3 +25,8 @@ The goal is to reduce variation, improve reuse, and ensure all content follows a
 2. Use [**AI-script-standard.md**](AI-script-standard.md) to write and refine scripts.
 3. Use [**imagery-generation-standard.md**](imagery-generation-standard.md) when creating visuals and animations.
 4. Follow review checkpoints at every stage.
+
+---
+
+# Here is a link to all the content I have posted
+[Jagos content](https://youtube.com/playlist?list=PLruNcvH1uxmmOYo0tSCvhPAh23efMhGiv&si=UIYqJBkuncIkD2LS)
