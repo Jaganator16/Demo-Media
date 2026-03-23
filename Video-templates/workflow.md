@@ -8,6 +8,7 @@ It is designed to reduce variation, improve reuse, and separate:
 - research
 - scripting
 - asset creation
+- voice generation
 - editing
 - review
 - learnings
@@ -93,7 +94,24 @@ Purpose:
 
 ---
 
-### 5. Build visual assets
+### 5. Generate voiceover
+Create the voiceover once the script and structure are stable enough to test pacing.
+
+Current standard:
+- ElevenLabs text-to-speech
+- Voice: [**Frederick Surrey — Conversational**](https://elevenlabs.io/app/voice-library?voiceId=KLON7Nwan8mJxpF2R8Yw)
+
+Purpose:
+- test timing
+- hear awkward phrasing early
+- check whether the script sounds natural when spoken aloud
+- give editing a stable audio track to build against
+
+**Review checkpoint:** confirm pronunciation, pacing, tone, and overall fit before editing.
+
+---
+
+### 6. Build visual assets
 Create the minimum assets needed to prove the concept, while aiming for reuse.
 
 Examples:
@@ -108,7 +126,7 @@ Examples:
 
 ---
 
-### 6. Edit MVP
+### 7. Edit MVP
 Combine script, visuals, voiceover, UI, and motion into a first working cut.
 
 Focus on:
@@ -121,7 +139,7 @@ Focus on:
 
 ---
 
-### 7. Refine and finalise
+### 8. Refine and finalise
 Apply feedback, reduce unnecessary variation, and improve only what strengthens the standard.
 
 At this stage:
