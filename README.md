@@ -6,7 +6,7 @@ This repository documents the current workflow, standards, and progress for demo
 
 ## Video Standards
 
-[video-standards](Demo-Media/video-standards) contains:
+[video-standards](Demo-Media/tree/main/Video-standards)) contains:
 - a workflow  
 - a script standard  
 - an imagery generation standard  
